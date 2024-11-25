@@ -9,7 +9,7 @@ public class Cardapio {
     private ArrayList<MenuItem> itens;
 
     /**
-     * Ajuda de @author
+     * Este contrutor foi feito com a ajuda de @author gpt
      */
     public Cardapio() {
         this.itens = new ArrayList<>();

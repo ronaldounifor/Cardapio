@@ -15,7 +15,7 @@ import br.unifor.cardapio.model.Cardapio;
 import br.unifor.cardapio.model.MenuItem;
 
 @RestController
-@RequestMapping("/restaurante")
+@RequestMapping("/cardapio")
 public class CardapioController {
 
     @Autowired
